@@ -4,7 +4,7 @@ Run this file to call the functions in solutions.py in a way that makes sense.
 Feel free to comment out any of it in order to focus only on the functions you are currently working on.
 """
 
-from solutions import *
+from solutions import get_year, is_square, get_greatest, get_bmi_category, get_discount, is_leap_year
 
 
 def main():
